@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# Author - Iyebhors Samuel ( sammykingx )
 
 i = 0
 for c in range(ord('z'), ord('a') - 1, -1):
